@@ -1,0 +1,13 @@
+node_modules
+dist
+.env
+.DS_Store
+*.log
+.prisma
+/backend/dist
+/frontend/dist
+/frontend/node_modules
+/backend/node_modules
+.env.local
+.env.production
+.cache
